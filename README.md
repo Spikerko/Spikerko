@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spikerko</h1>
 <h3 align="center">A Fullstack Web Developer</h3>
 
-<p align="left"> <a href="https://x/spikerko_" target="blank"><img src="https://img.shields.io/twitter/follow/spikerko_?logo=twitter&style=for-the-badge" alt="spikerko_" /></a> </p>
+<p align="left"> <a href="https://x.com/spikerko_" target="blank"><img src="https://img.shields.io/twitter/follow/spikerko_?logo=twitter&style=for-the-badge" alt="spikerko_" /></a> </p>
 
 - 🔭 I’m currently working on [Spicy Lyrics](https://github.com/Spikerko/spicy-lyrics)
 
